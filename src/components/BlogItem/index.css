@@ -1,0 +1,25 @@
+.title-date {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 24px;
+}
+.description {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+.horizontal-line {
+  color: #616e7c;
+}
+.list-style {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  width: 100%;
+}
